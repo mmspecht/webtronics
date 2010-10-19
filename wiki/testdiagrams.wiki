@@ -1,2 +1,1 @@
-
-http://webtronics.googlecode.com/svn/trunk/webtronics/diagrams/555astable.svg
+[file:http://webtronics.googlecode.com/svn/trunk/webtronics/diagrams/555astable.svg|200px]

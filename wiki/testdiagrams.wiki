@@ -1,3 +1,2 @@
-<img border="0"
-src="url=http://webtronics.googlecode.com/svn/trunk/webtronics/diagrams/555astable.svg"
+<img src="http://webtronics.googlecode.com/svn/trunk/webtronics/diagrams/555astable.svg"
 />

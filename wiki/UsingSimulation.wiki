@@ -1,3 +1,4 @@
+#How to use ac and transient analysis in webtronics.
 = How to use ac and transient analysis in webtronics.=
 
 Remember that instead of offering all options as gui options, I prefer to offer 
@@ -44,4 +45,3 @@ Here is how to use AC analysis in Webtronics.
 4.Click the run spice button.
 
 The waveform is shown in the graph display. Only one simulation type can be run at a time. This is useful for calculating operating frequencies for circuits. Enjoy.
-

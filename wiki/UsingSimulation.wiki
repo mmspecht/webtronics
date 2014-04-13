@@ -24,6 +24,8 @@ Transient analysis is voltage over time, sort of like an oscilloscope. Some of t
 6.click the run spice button.
 
 
+First Gnucap will download. Then the simulation text output will be shown in the window. If the simulation is successful, the graph will be shown.
+
 If the simulation is taking too long you can cancel it. If you want to, you can open the netlist and edit it and click the run button.The changes to the netlist are not saved in the circuit. 
 
 

@@ -1,4 +1,3 @@
-#How to use ac and transient analysis in webtronics.
 = How to use ac and transient analysis in webtronics.=
 
 Remember that instead of offering all options as gui options, I prefer to offer 

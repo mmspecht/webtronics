@@ -26,7 +26,7 @@ Transient analysis is voltage over time, sort of like an oscilloscope. Some of t
 
 First Gnucap will download. Then the simulation text output will be shown in the window. If the simulation is successful, the graph will be shown.
 
-If the simulation is taking too long you can cancel it. If you want to, you can open the netlist and edit it and click the run button.The changes to the netlist are not saved in the circuit. 
+If the simulation is taking too long you can cancel it. If the simulation doesn't work check the netlist. Webtronics is unfinished and may have the got the netlist wrong. If you want to, you can open the netlist and edit it and click the run button.The changes to the netlist are not saved in the circuit. 
 
 
 

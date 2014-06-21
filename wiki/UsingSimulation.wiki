@@ -2,7 +2,7 @@
 
 Remember that instead of offering all options as gui options, I prefer to offer 
 text options that the user can change. The only problem is that you have to learn a little spice. I'm just learning most of it myself.
-The manual for gnucap is [http://gnucap.org/gnucap-man.pdf HERE].
+The manual for gnucap is [http://www.gnucap.org/dokuwiki/doku.php?id=gnucap:manual HERE].
 
 = Transient analysis =
 

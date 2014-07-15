@@ -39,7 +39,7 @@ Here is how to use AC analysis in Webtronics.
 
 [http://4.bp.blogspot.com/-9Rv1iGLViyE/U0cmJ04XTBI/AAAAAAAAASo/YCDS5vyh8xw/s1600/ac.png]
 
-2. For the ac source select "AC 1 SIN" from the "value or model" menu and select ".ac lin 20 100 200 " from the "spice directive" menu. This is 20 steps starting at 100hz and ending at 200 hz.
+2. For the ac source select "AC 1 SIN" from the "value or model" menu and select ".ac lin 20 100 200 " from the "spice directive" menu. This is 20 steps starting at 100hz and ending at 200 hz. Add  i(v1)  to the "measurements" field to measure the current of voltage source v1.  
 
 3. The rest of the values are marked in the image.
 
